@@ -1,0 +1,52 @@
+@media screen and (max-width:991px){
+	.header{
+		height:194px;
+	}
+	.about-us-right{
+		padding-left:20px;
+	}
+	.nav{
+		overflow:visibility;
+		padding-top:50px;
+		padding-bottom:20px;
+	}
+	.slide{
+	padding-top:120px;
+	
+	}
+	.carousel-caption {
+    margin-bottom: 70px;
+	
+	}
+}
+@media screen and (max-width:767px){
+	.header{
+		height:122px;
+	}
+	.navbar-right{
+		margin-top:82px;
+	}
+	.navbar-right li{
+		padding-left:20px;
+	}
+	.navbar-right li .home {
+		border-bottom: none;
+	}
+	section.mje-about-card {
+    top: 20px;
+    }
+	.mje-about-card .about-card img{
+		width:100%;
+	}
+	.homepageabout .about-us-left{
+		margin-top:23px;
+	}
+}
+@media screen and (max-width:332px){
+	.header{
+		height:160px;
+	}
+	.header .navbar-header img{
+		margin-top:-20px;
+	}
+
